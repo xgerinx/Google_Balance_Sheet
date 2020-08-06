@@ -1,0 +1,6 @@
+Django
+djangorestframework
+lxml
+numpy
+pandas
+requests
