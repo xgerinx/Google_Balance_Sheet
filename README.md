@@ -4,4 +4,4 @@ This application scrape Balance Sheet of Google from Yahoo Finance and provide t
 
 2. Run "pipenv shell" to open this project in virtual environment.
 
-3. Run custom "python manage.py scraper" command to fill database with data.
+3. Run custom "python manage.py scraper" command to fill database with data. (you can find this file in apps/balance_sheet/management/commands/scraper.py)
